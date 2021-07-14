@@ -1,0 +1,1 @@
+;; The result should be 2.
